@@ -1,0 +1,15 @@
+D:\Users\marcin.swiderski\Desktop\Copier\Copier\Zadanie1\bin\Debug\net8.0\Zadanie1.exe
+D:\Users\marcin.swiderski\Desktop\Copier\Copier\Zadanie1\bin\Debug\net8.0\Zadanie1.deps.json
+D:\Users\marcin.swiderski\Desktop\Copier\Copier\Zadanie1\bin\Debug\net8.0\Zadanie1.runtimeconfig.json
+D:\Users\marcin.swiderski\Desktop\Copier\Copier\Zadanie1\bin\Debug\net8.0\Zadanie1.dll
+D:\Users\marcin.swiderski\Desktop\Copier\Copier\Zadanie1\bin\Debug\net8.0\Zadanie1.pdb
+D:\Users\marcin.swiderski\Desktop\Copier\Copier\Zadanie1\obj\Debug\net8.0\Zadanie1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\marcin.swiderski\Desktop\Copier\Copier\Zadanie1\obj\Debug\net8.0\Zadanie1.AssemblyInfoInputs.cache
+D:\Users\marcin.swiderski\Desktop\Copier\Copier\Zadanie1\obj\Debug\net8.0\Zadanie1.AssemblyInfo.cs
+D:\Users\marcin.swiderski\Desktop\Copier\Copier\Zadanie1\obj\Debug\net8.0\Zadanie1.csproj.CoreCompileInputs.cache
+D:\Users\marcin.swiderski\Desktop\Copier\Copier\Zadanie1\obj\Debug\net8.0\Zadanie1.sourcelink.json
+D:\Users\marcin.swiderski\Desktop\Copier\Copier\Zadanie1\obj\Debug\net8.0\Zadanie1.dll
+D:\Users\marcin.swiderski\Desktop\Copier\Copier\Zadanie1\obj\Debug\net8.0\refint\Zadanie1.dll
+D:\Users\marcin.swiderski\Desktop\Copier\Copier\Zadanie1\obj\Debug\net8.0\Zadanie1.pdb
+D:\Users\marcin.swiderski\Desktop\Copier\Copier\Zadanie1\obj\Debug\net8.0\Zadanie1.genruntimeconfig.cache
+D:\Users\marcin.swiderski\Desktop\Copier\Copier\Zadanie1\obj\Debug\net8.0\ref\Zadanie1.dll
