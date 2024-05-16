@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\marcin.swiderski\\Desktop\\Copier\\Copier\\Zadanie1TestProject\\Zadanie1TestProject.csproj": {}
+    "C:\\Users\\marci\\Desktop\\projekty studia\\Copier\\Copier\\Zadanie1TestProject\\Zadanie1TestProject.csproj": {}
   },
   "projects": {
-    "D:\\Users\\marcin.swiderski\\Desktop\\Copier\\Copier\\Zadanie1TestProject\\Zadanie1TestProject.csproj": {
+    "C:\\Users\\marci\\Desktop\\projekty studia\\Copier\\Copier\\Zadanie1TestProject\\Zadanie1TestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\marcin.swiderski\\Desktop\\Copier\\Copier\\Zadanie1TestProject\\Zadanie1TestProject.csproj",
+        "projectUniqueName": "C:\\Users\\marci\\Desktop\\projekty studia\\Copier\\Copier\\Zadanie1TestProject\\Zadanie1TestProject.csproj",
         "projectName": "Zadanie1TestProject",
-        "projectPath": "D:\\Users\\marcin.swiderski\\Desktop\\Copier\\Copier\\Zadanie1TestProject\\Zadanie1TestProject.csproj",
-        "packagesPath": "D:\\Users\\marcin.swiderski\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\marcin.swiderski\\Desktop\\Copier\\Copier\\Zadanie1TestProject\\obj\\",
+        "projectPath": "C:\\Users\\marci\\Desktop\\projekty studia\\Copier\\Copier\\Zadanie1TestProject\\Zadanie1TestProject.csproj",
+        "packagesPath": "C:\\Users\\marci\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marci\\Desktop\\projekty studia\\Copier\\Copier\\Zadanie1TestProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "D:\\Users\\marcin.swiderski\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\marci\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Users\\marcin.swiderski\\Desktop\\Copier\\Copier\\Zadanie1\\Zadanie1.csproj": {
-                "projectPath": "D:\\Users\\marcin.swiderski\\Desktop\\Copier\\Copier\\Zadanie1\\Zadanie1.csproj"
+              "C:\\Users\\marci\\Desktop\\projekty studia\\Copier\\Copier\\Zadanie1\\Zadanie1.csproj": {
+                "projectPath": "C:\\Users\\marci\\Desktop\\projekty studia\\Copier\\Copier\\Zadanie1\\Zadanie1.csproj"
               }
             }
           }
@@ -82,21 +82,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Users\\marcin.swiderski\\Desktop\\Copier\\Copier\\Zadanie1\\Zadanie1.csproj": {
+    "C:\\Users\\marci\\Desktop\\projekty studia\\Copier\\Copier\\Zadanie1\\Zadanie1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\marcin.swiderski\\Desktop\\Copier\\Copier\\Zadanie1\\Zadanie1.csproj",
+        "projectUniqueName": "C:\\Users\\marci\\Desktop\\projekty studia\\Copier\\Copier\\Zadanie1\\Zadanie1.csproj",
         "projectName": "Zadanie1",
-        "projectPath": "D:\\Users\\marcin.swiderski\\Desktop\\Copier\\Copier\\Zadanie1\\Zadanie1.csproj",
-        "packagesPath": "D:\\Users\\marcin.swiderski\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\marcin.swiderski\\Desktop\\Copier\\Copier\\Zadanie1\\obj\\",
+        "projectPath": "C:\\Users\\marci\\Desktop\\projekty studia\\Copier\\Copier\\Zadanie1\\Zadanie1.csproj",
+        "packagesPath": "C:\\Users\\marci\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marci\\Desktop\\projekty studia\\Copier\\Copier\\Zadanie1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "D:\\Users\\marcin.swiderski\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\marci\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -142,7 +142,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
