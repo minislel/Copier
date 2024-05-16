@@ -18,7 +18,7 @@
             Console.WriteLine(DateTime.Now+" Print: "+document.GetFileName());
         }
 
-        public void Scan(out IDocument document, IDocument.FormatType formatType = IDocument.FormatType.PDF)
+        public void Scan(out IDocument document, IDocument.FormatType formatType = IDocument.FormatType.JPG)
         {
             if(state==IDevice.State.off)
             {
@@ -43,19 +43,27 @@
         public void ScanAndPrint()
         {
             IDocument document;
-            Scan(out document);
+            Scan(out document, IDocument.FormatType.JPG);
             Print(in document);
             document = null;
         }
         new public void PowerOn()
         {
-            if (state != IDevice.State.on)
+            if (state == IDevice.State.off)
             {
                 Counter++;
+                state = IDevice.State.on;
+                Console.WriteLine("Device is on ...");
             }
-            state = IDevice.State.on;
-            Console.WriteLine("Device is on ...");
-            
+
+        }
+        new public void PowerOff()
+        {
+            if (state == IDevice.State.on)
+            {
+                state = IDevice.State.off;
+                Console.WriteLine("Device is on ...");
+            }
         }
 
     }

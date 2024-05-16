@@ -28,3 +28,7 @@ C:\Users\marci\Desktop\projekty studia\Copier\Copier\Zadanie1\obj\Debug\net8.0\r
 C:\Users\marci\Desktop\projekty studia\Copier\Copier\Zadanie1\obj\Debug\net8.0\Zadanie1.pdb
 C:\Users\marci\Desktop\projekty studia\Copier\Copier\Zadanie1\obj\Debug\net8.0\Zadanie1.genruntimeconfig.cache
 C:\Users\marci\Desktop\projekty studia\Copier\Copier\Zadanie1\obj\Debug\net8.0\ref\Zadanie1.dll
+C:\Users\marci\Desktop\projekty studia\Copier\Copier\Zadanie1\bin\Debug\net8.0\DocumentsDevices.dll
+C:\Users\marci\Desktop\projekty studia\Copier\Copier\Zadanie1\bin\Debug\net8.0\DocumentsDevices.pdb
+C:\Users\marci\Desktop\projekty studia\Copier\Copier\Zadanie1\obj\Debug\net8.0\Zadanie1.csproj.AssemblyReference.cache
+C:\Users\marci\Desktop\projekty studia\Copier\Copier\Zadanie1\obj\Debug\net8.0\Zadanie1.csproj.Up2Date

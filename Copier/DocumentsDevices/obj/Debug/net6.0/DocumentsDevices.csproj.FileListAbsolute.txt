@@ -1,0 +1,12 @@
+C:\Users\marci\Desktop\projekty studia\Copier\Copier\DocumentsDevices\bin\Debug\net6.0\DocumentsDevices.deps.json
+C:\Users\marci\Desktop\projekty studia\Copier\Copier\DocumentsDevices\bin\Debug\net6.0\DocumentsDevices.dll
+C:\Users\marci\Desktop\projekty studia\Copier\Copier\DocumentsDevices\bin\Debug\net6.0\DocumentsDevices.pdb
+C:\Users\marci\Desktop\projekty studia\Copier\Copier\DocumentsDevices\obj\Debug\net6.0\DocumentsDevices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marci\Desktop\projekty studia\Copier\Copier\DocumentsDevices\obj\Debug\net6.0\DocumentsDevices.AssemblyInfoInputs.cache
+C:\Users\marci\Desktop\projekty studia\Copier\Copier\DocumentsDevices\obj\Debug\net6.0\DocumentsDevices.AssemblyInfo.cs
+C:\Users\marci\Desktop\projekty studia\Copier\Copier\DocumentsDevices\obj\Debug\net6.0\DocumentsDevices.csproj.CoreCompileInputs.cache
+C:\Users\marci\Desktop\projekty studia\Copier\Copier\DocumentsDevices\obj\Debug\net6.0\DocumentsDevices.sourcelink.json
+C:\Users\marci\Desktop\projekty studia\Copier\Copier\DocumentsDevices\obj\Debug\net6.0\DocumentsDevices.dll
+C:\Users\marci\Desktop\projekty studia\Copier\Copier\DocumentsDevices\obj\Debug\net6.0\refint\DocumentsDevices.dll
+C:\Users\marci\Desktop\projekty studia\Copier\Copier\DocumentsDevices\obj\Debug\net6.0\DocumentsDevices.pdb
+C:\Users\marci\Desktop\projekty studia\Copier\Copier\DocumentsDevices\obj\Debug\net6.0\ref\DocumentsDevices.dll

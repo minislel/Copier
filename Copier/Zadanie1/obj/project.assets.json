@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "DocumentsDevices/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DocumentsDevices.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DocumentsDevices.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "DocumentsDevices/1.0.0": {
+      "type": "project",
+      "path": "../DocumentsDevices/DocumentsDevices.csproj",
+      "msbuildProject": "../DocumentsDevices/DocumentsDevices.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "DocumentsDevices >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\marci\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\marci\\Desktop\\projekty studia\\Copier\\Copier\\DocumentsDevices\\DocumentsDevices.csproj": {
+              "projectPath": "C:\\Users\\marci\\Desktop\\projekty studia\\Copier\\Copier\\DocumentsDevices\\DocumentsDevices.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

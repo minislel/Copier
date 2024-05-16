@@ -3,28 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\marci\\Desktop\\projekty studia\\Copier\\Copier\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A5D6C3BC-402D-4877-A52A-BD56F97A6C64}|Zadanie1\\Zadanie1.csproj|c:\\users\\marci\\desktop\\projekty studia\\copier\\copier\\zadanie1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5D6C3BC-402D-4877-A52A-BD56F97A6C64}|Zadanie1\\Zadanie1.csproj|solutionrelative:zadanie1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1552B90-2F68-471B-8A39-CF82AE2480C8}|Zadanie1TestProject\\Zadanie1TestProject.csproj|c:\\users\\marci\\desktop\\projekty studia\\copier\\copier\\zadanie1testproject\\unittestcopier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1552B90-2F68-471B-8A39-CF82AE2480C8}|Zadanie1TestProject\\Zadanie1TestProject.csproj|solutionrelative:zadanie1testproject\\unittestcopier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5D6C3BC-402D-4877-A52A-BD56F97A6C64}|Zadanie1\\Zadanie1.csproj|c:\\users\\marci\\desktop\\projekty studia\\copier\\copier\\zadanie1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5D6C3BC-402D-4877-A52A-BD56F97A6C64}|Zadanie1\\Zadanie1.csproj|solutionrelative:zadanie1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5D6C3BC-402D-4877-A52A-BD56F97A6C64}|Zadanie1\\Zadanie1.csproj|c:\\users\\marci\\desktop\\projekty studia\\copier\\copier\\zadanie1\\devices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5D6C3BC-402D-4877-A52A-BD56F97A6C64}|Zadanie1\\Zadanie1.csproj|solutionrelative:zadanie1\\devices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5D6C3BC-402D-4877-A52A-BD56F97A6C64}|Zadanie1\\Zadanie1.csproj|c:\\users\\marci\\desktop\\projekty studia\\copier\\copier\\zadanie1\\documents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5D6C3BC-402D-4877-A52A-BD56F97A6C64}|Zadanie1\\Zadanie1.csproj|solutionrelative:zadanie1\\documents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1552B90-2F68-471B-8A39-CF82AE2480C8}|Zadanie1TestProject\\Zadanie1TestProject.csproj|c:\\users\\marci\\desktop\\projekty studia\\copier\\copier\\zadanie1testproject\\zadanie1testproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C1552B90-2F68-471B-8A39-CF82AE2480C8}|Zadanie1TestProject\\Zadanie1TestProject.csproj|solutionrelative:zadanie1testproject\\zadanie1testproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{2FD4A57F-9FC7-455F-96DE-5AA81416C8B4}|Zadanie2\\Zadanie2.csproj|c:\\users\\marci\\desktop\\projekty studia\\copier\\copier\\zadanie2\\multifunctionaldevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FD4A57F-9FC7-455F-96DE-5AA81416C8B4}|Zadanie2\\Zadanie2.csproj|solutionrelative:zadanie2\\multifunctionaldevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,89 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Documents.cs",
-              "DocumentMoniker": "C:\\Users\\marci\\Desktop\\projekty studia\\Copier\\Copier\\Zadanie1\\Documents.cs",
-              "RelativeDocumentMoniker": "Zadanie1\\Documents.cs",
-              "ToolTip": "C:\\Users\\marci\\Desktop\\projekty studia\\Copier\\Copier\\Zadanie1\\Documents.cs",
-              "RelativeToolTip": "Zadanie1\\Documents.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAkwB4AAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T12:02:58.867Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\marci\\Desktop\\projekty studia\\Copier\\Copier\\Zadanie1\\Class1.cs",
-              "RelativeDocumentMoniker": "Zadanie1\\Class1.cs",
-              "ToolTip": "C:\\Users\\marci\\Desktop\\projekty studia\\Copier\\Copier\\Zadanie1\\Class1.cs",
-              "RelativeToolTip": "Zadanie1\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAwBEAAAAmAAAA",
+              "Title": "MultiFunctionalDevice.cs",
+              "DocumentMoniker": "C:\\Users\\marci\\Desktop\\projekty studia\\Copier\\Copier\\Zadanie2\\MultiFunctionalDevice.cs",
+              "RelativeDocumentMoniker": "Zadanie2\\MultiFunctionalDevice.cs",
+              "ToolTip": "C:\\Users\\marci\\Desktop\\projekty studia\\Copier\\Copier\\Zadanie2\\MultiFunctionalDevice.cs",
+              "RelativeToolTip": "Zadanie2\\MultiFunctionalDevice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T12:00:43.49Z",
+              "WhenOpened": "2024-05-16T11:08:21.583Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UnitTestCopier.cs",
-              "DocumentMoniker": "C:\\Users\\marci\\Desktop\\projekty studia\\Copier\\Copier\\Zadanie1TestProject\\UnitTestCopier.cs",
-              "RelativeDocumentMoniker": "Zadanie1TestProject\\UnitTestCopier.cs",
-              "ToolTip": "C:\\Users\\marci\\Desktop\\projekty studia\\Copier\\Copier\\Zadanie1TestProject\\UnitTestCopier.cs",
-              "RelativeToolTip": "Zadanie1TestProject\\UnitTestCopier.cs",
-              "ViewState": "AQIAAEQAAAAAAAAAAAAswE0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T12:00:30.27Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Zadanie1TestProject.csproj",
-              "DocumentMoniker": "C:\\Users\\marci\\Desktop\\projekty studia\\Copier\\Copier\\Zadanie1TestProject\\Zadanie1TestProject.csproj",
-              "RelativeDocumentMoniker": "Zadanie1TestProject\\Zadanie1TestProject.csproj",
-              "ToolTip": "C:\\Users\\marci\\Desktop\\projekty studia\\Copier\\Copier\\Zadanie1TestProject\\Zadanie1TestProject.csproj",
-              "RelativeToolTip": "Zadanie1TestProject\\Zadanie1TestProject.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-09T12:00:22.943Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Devices.cs",
-              "DocumentMoniker": "C:\\Users\\marci\\Desktop\\projekty studia\\Copier\\Copier\\Zadanie1\\Devices.cs",
-              "RelativeDocumentMoniker": "Zadanie1\\Devices.cs",
-              "ToolTip": "C:\\Users\\marci\\Desktop\\projekty studia\\Copier\\Copier\\Zadanie1\\Devices.cs",
-              "RelativeToolTip": "Zadanie1\\Devices.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAIwBEAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T11:52:09.748Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\marci\\Desktop\\projekty studia\\Copier\\Copier\\Zadanie1\\Program.cs",
-              "RelativeDocumentMoniker": "Zadanie1\\Program.cs",
-              "ToolTip": "C:\\Users\\marci\\Desktop\\projekty studia\\Copier\\Copier\\Zadanie1\\Program.cs",
-              "RelativeToolTip": "Zadanie1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T11:51:21.712Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             }
           ]
         }

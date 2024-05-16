@@ -17,6 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\DocumentsDevices\DocumentsDevices.csproj" />
     <ProjectReference Include="..\Zadanie1\Zadanie1.csproj" />
   </ItemGroup>
 
