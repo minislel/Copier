@@ -10,3 +10,15 @@ C:\Users\marci\Desktop\projekty studia\Copier\Copier\DocumentsDevices\obj\Debug\
 C:\Users\marci\Desktop\projekty studia\Copier\Copier\DocumentsDevices\obj\Debug\net6.0\refint\DocumentsDevices.dll
 C:\Users\marci\Desktop\projekty studia\Copier\Copier\DocumentsDevices\obj\Debug\net6.0\DocumentsDevices.pdb
 C:\Users\marci\Desktop\projekty studia\Copier\Copier\DocumentsDevices\obj\Debug\net6.0\ref\DocumentsDevices.dll
+D:\Users\marcin.swiderski\Desktop\Copier\Copier\DocumentsDevices\bin\Debug\net6.0\DocumentsDevices.deps.json
+D:\Users\marcin.swiderski\Desktop\Copier\Copier\DocumentsDevices\bin\Debug\net6.0\DocumentsDevices.dll
+D:\Users\marcin.swiderski\Desktop\Copier\Copier\DocumentsDevices\bin\Debug\net6.0\DocumentsDevices.pdb
+D:\Users\marcin.swiderski\Desktop\Copier\Copier\DocumentsDevices\obj\Debug\net6.0\DocumentsDevices.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\marcin.swiderski\Desktop\Copier\Copier\DocumentsDevices\obj\Debug\net6.0\DocumentsDevices.AssemblyInfoInputs.cache
+D:\Users\marcin.swiderski\Desktop\Copier\Copier\DocumentsDevices\obj\Debug\net6.0\DocumentsDevices.AssemblyInfo.cs
+D:\Users\marcin.swiderski\Desktop\Copier\Copier\DocumentsDevices\obj\Debug\net6.0\DocumentsDevices.csproj.CoreCompileInputs.cache
+D:\Users\marcin.swiderski\Desktop\Copier\Copier\DocumentsDevices\obj\Debug\net6.0\DocumentsDevices.sourcelink.json
+D:\Users\marcin.swiderski\Desktop\Copier\Copier\DocumentsDevices\obj\Debug\net6.0\DocumentsDevices.dll
+D:\Users\marcin.swiderski\Desktop\Copier\Copier\DocumentsDevices\obj\Debug\net6.0\refint\DocumentsDevices.dll
+D:\Users\marcin.swiderski\Desktop\Copier\Copier\DocumentsDevices\obj\Debug\net6.0\DocumentsDevices.pdb
+D:\Users\marcin.swiderski\Desktop\Copier\Copier\DocumentsDevices\obj\Debug\net6.0\ref\DocumentsDevices.dll

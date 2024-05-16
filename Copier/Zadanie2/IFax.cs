@@ -7,8 +7,11 @@ using Zadanie1;
 
 namespace Zadanie2
 {
-    internal interface IFax : IDevice
+    public interface IFax : IDevice
     {
+        int FaxNumber { get;}
+        void Send(IDocument document, int recepientFaxNo);
+
 
     }
 }

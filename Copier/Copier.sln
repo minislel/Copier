@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadanie1", "Zadanie1\Zadani
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadanie1TestProject", "Zadanie1TestProject\Zadanie1TestProject.csproj", "{C1552B90-2F68-471B-8A39-CF82AE2480C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie2", "Zadanie2\Zadanie2.csproj", "{2FD4A57F-9FC7-455F-96DE-5AA81416C8B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadanie2", "Zadanie2\Zadanie2.csproj", "{2FD4A57F-9FC7-455F-96DE-5AA81416C8B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentsDevices", "DocumentsDevices\DocumentsDevices.csproj", "{D12AB5A0-ED72-4AA3-82D7-A562B3D72E52}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DocumentsDevices", "DocumentsDevices\DocumentsDevices.csproj", "{D12AB5A0-ED72-4AA3-82D7-A562B3D72E52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie2TestProject", "Zadanie2TestProject\Zadanie2TestProject.csproj", "{12298AED-2AA9-4F54-9AE8-2FE1CC6BF88F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{D12AB5A0-ED72-4AA3-82D7-A562B3D72E52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D12AB5A0-ED72-4AA3-82D7-A562B3D72E52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D12AB5A0-ED72-4AA3-82D7-A562B3D72E52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12298AED-2AA9-4F54-9AE8-2FE1CC6BF88F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12298AED-2AA9-4F54-9AE8-2FE1CC6BF88F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12298AED-2AA9-4F54-9AE8-2FE1CC6BF88F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12298AED-2AA9-4F54-9AE8-2FE1CC6BF88F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

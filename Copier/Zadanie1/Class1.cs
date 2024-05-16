@@ -4,8 +4,8 @@
     {
         
         new public int Counter { get; private set; }
-        public int PrintCounter { get; set; }
-        public int ScanCounter { get; set; }
+        public int PrintCounter { get; private set; }
+        public int ScanCounter { get; private set; }
     
 
         public void Print(in IDocument document)
@@ -42,7 +42,7 @@
         }
         public void ScanAndPrint()
         {
-            IDocument document;
+            IDocument? document;
             Scan(out document, IDocument.FormatType.JPG);
             Print(in document);
             document = null;

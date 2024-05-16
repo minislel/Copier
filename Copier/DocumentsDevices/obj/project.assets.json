@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\marci\\.nuget\\packages\\": {}
+    "D:\\Users\\marcin.swiderski\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marci\\Desktop\\projekty studia\\Copier\\Copier\\DocumentsDevices\\DocumentsDevices.csproj",
+      "projectUniqueName": "D:\\Users\\marcin.swiderski\\Desktop\\Copier\\Copier\\DocumentsDevices\\DocumentsDevices.csproj",
       "projectName": "DocumentsDevices",
-      "projectPath": "C:\\Users\\marci\\Desktop\\projekty studia\\Copier\\Copier\\DocumentsDevices\\DocumentsDevices.csproj",
-      "packagesPath": "C:\\Users\\marci\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marci\\Desktop\\projekty studia\\Copier\\Copier\\DocumentsDevices\\obj\\",
+      "projectPath": "D:\\Users\\marcin.swiderski\\Desktop\\Copier\\Copier\\DocumentsDevices\\DocumentsDevices.csproj",
+      "packagesPath": "D:\\Users\\marcin.swiderski\\.nuget\\packages\\",
+      "outputPath": "D:\\Users\\marcin.swiderski\\Desktop\\Copier\\Copier\\DocumentsDevices\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\marci\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "D:\\Users\\marcin.swiderski\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -66,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

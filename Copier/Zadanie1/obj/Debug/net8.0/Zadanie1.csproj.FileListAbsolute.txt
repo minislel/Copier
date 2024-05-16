@@ -32,3 +32,7 @@ C:\Users\marci\Desktop\projekty studia\Copier\Copier\Zadanie1\bin\Debug\net8.0\D
 C:\Users\marci\Desktop\projekty studia\Copier\Copier\Zadanie1\bin\Debug\net8.0\DocumentsDevices.pdb
 C:\Users\marci\Desktop\projekty studia\Copier\Copier\Zadanie1\obj\Debug\net8.0\Zadanie1.csproj.AssemblyReference.cache
 C:\Users\marci\Desktop\projekty studia\Copier\Copier\Zadanie1\obj\Debug\net8.0\Zadanie1.csproj.Up2Date
+D:\Users\marcin.swiderski\Desktop\Copier\Copier\Zadanie1\bin\Debug\net8.0\DocumentsDevices.dll
+D:\Users\marcin.swiderski\Desktop\Copier\Copier\Zadanie1\bin\Debug\net8.0\DocumentsDevices.pdb
+D:\Users\marcin.swiderski\Desktop\Copier\Copier\Zadanie1\obj\Debug\net8.0\Zadanie1.csproj.AssemblyReference.cache
+D:\Users\marcin.swiderski\Desktop\Copier\Copier\Zadanie1\obj\Debug\net8.0\Zadanie1.csproj.Up2Date
