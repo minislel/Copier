@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\marcin.swiderski\\Desktop\\Copier\\Copier\\DocumentsDevices\\DocumentsDevices.csproj": {}
+    "C:\\Users\\SkutecznieUse\\Desktop\\studia\\Copier\\Copier\\DocumentsDevices\\DocumentsDevices.csproj": {}
   },
   "projects": {
-    "D:\\Users\\marcin.swiderski\\Desktop\\Copier\\Copier\\DocumentsDevices\\DocumentsDevices.csproj": {
+    "C:\\Users\\SkutecznieUse\\Desktop\\studia\\Copier\\Copier\\DocumentsDevices\\DocumentsDevices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\marcin.swiderski\\Desktop\\Copier\\Copier\\DocumentsDevices\\DocumentsDevices.csproj",
+        "projectUniqueName": "C:\\Users\\SkutecznieUse\\Desktop\\studia\\Copier\\Copier\\DocumentsDevices\\DocumentsDevices.csproj",
         "projectName": "DocumentsDevices",
-        "projectPath": "D:\\Users\\marcin.swiderski\\Desktop\\Copier\\Copier\\DocumentsDevices\\DocumentsDevices.csproj",
-        "packagesPath": "D:\\Users\\marcin.swiderski\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\marcin.swiderski\\Desktop\\Copier\\Copier\\DocumentsDevices\\obj\\",
+        "projectPath": "C:\\Users\\SkutecznieUse\\Desktop\\studia\\Copier\\Copier\\DocumentsDevices\\DocumentsDevices.csproj",
+        "packagesPath": "C:\\Users\\SkutecznieUse\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SkutecznieUse\\Desktop\\studia\\Copier\\Copier\\DocumentsDevices\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "D:\\Users\\marcin.swiderski\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\SkutecznieUse\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -60,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }

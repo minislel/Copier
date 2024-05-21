@@ -22,3 +22,15 @@ D:\Users\marcin.swiderski\Desktop\Copier\Copier\DocumentsDevices\obj\Debug\net6.
 D:\Users\marcin.swiderski\Desktop\Copier\Copier\DocumentsDevices\obj\Debug\net6.0\refint\DocumentsDevices.dll
 D:\Users\marcin.swiderski\Desktop\Copier\Copier\DocumentsDevices\obj\Debug\net6.0\DocumentsDevices.pdb
 D:\Users\marcin.swiderski\Desktop\Copier\Copier\DocumentsDevices\obj\Debug\net6.0\ref\DocumentsDevices.dll
+C:\Users\SkutecznieUse\Desktop\studia\Copier\Copier\DocumentsDevices\bin\Debug\net6.0\DocumentsDevices.deps.json
+C:\Users\SkutecznieUse\Desktop\studia\Copier\Copier\DocumentsDevices\bin\Debug\net6.0\DocumentsDevices.dll
+C:\Users\SkutecznieUse\Desktop\studia\Copier\Copier\DocumentsDevices\bin\Debug\net6.0\DocumentsDevices.pdb
+C:\Users\SkutecznieUse\Desktop\studia\Copier\Copier\DocumentsDevices\obj\Debug\net6.0\DocumentsDevices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SkutecznieUse\Desktop\studia\Copier\Copier\DocumentsDevices\obj\Debug\net6.0\DocumentsDevices.AssemblyInfoInputs.cache
+C:\Users\SkutecznieUse\Desktop\studia\Copier\Copier\DocumentsDevices\obj\Debug\net6.0\DocumentsDevices.AssemblyInfo.cs
+C:\Users\SkutecznieUse\Desktop\studia\Copier\Copier\DocumentsDevices\obj\Debug\net6.0\DocumentsDevices.csproj.CoreCompileInputs.cache
+C:\Users\SkutecznieUse\Desktop\studia\Copier\Copier\DocumentsDevices\obj\Debug\net6.0\DocumentsDevices.sourcelink.json
+C:\Users\SkutecznieUse\Desktop\studia\Copier\Copier\DocumentsDevices\obj\Debug\net6.0\DocumentsDevices.dll
+C:\Users\SkutecznieUse\Desktop\studia\Copier\Copier\DocumentsDevices\obj\Debug\net6.0\refint\DocumentsDevices.dll
+C:\Users\SkutecznieUse\Desktop\studia\Copier\Copier\DocumentsDevices\obj\Debug\net6.0\DocumentsDevices.pdb
+C:\Users\SkutecznieUse\Desktop\studia\Copier\Copier\DocumentsDevices\obj\Debug\net6.0\ref\DocumentsDevices.dll

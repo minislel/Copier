@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\marcin.swiderski\\Desktop\\Copier\\Copier\\Zadanie2TestProject\\Zadanie2TestProject.csproj": {}
+    "C:\\Users\\SkutecznieUse\\Desktop\\studia\\Copier\\Copier\\Zadanie2TestProject\\Zadanie2TestProject.csproj": {}
   },
   "projects": {
-    "D:\\Users\\marcin.swiderski\\Desktop\\Copier\\Copier\\DocumentsDevices\\DocumentsDevices.csproj": {
+    "C:\\Users\\SkutecznieUse\\Desktop\\studia\\Copier\\Copier\\DocumentsDevices\\DocumentsDevices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\marcin.swiderski\\Desktop\\Copier\\Copier\\DocumentsDevices\\DocumentsDevices.csproj",
+        "projectUniqueName": "C:\\Users\\SkutecznieUse\\Desktop\\studia\\Copier\\Copier\\DocumentsDevices\\DocumentsDevices.csproj",
         "projectName": "DocumentsDevices",
-        "projectPath": "D:\\Users\\marcin.swiderski\\Desktop\\Copier\\Copier\\DocumentsDevices\\DocumentsDevices.csproj",
-        "packagesPath": "D:\\Users\\marcin.swiderski\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\marcin.swiderski\\Desktop\\Copier\\Copier\\DocumentsDevices\\obj\\",
+        "projectPath": "C:\\Users\\SkutecznieUse\\Desktop\\studia\\Copier\\Copier\\DocumentsDevices\\DocumentsDevices.csproj",
+        "packagesPath": "C:\\Users\\SkutecznieUse\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SkutecznieUse\\Desktop\\studia\\Copier\\Copier\\DocumentsDevices\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "D:\\Users\\marcin.swiderski\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\SkutecznieUse\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -60,21 +64,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Users\\marcin.swiderski\\Desktop\\Copier\\Copier\\Zadanie2TestProject\\Zadanie2TestProject.csproj": {
+    "C:\\Users\\SkutecznieUse\\Desktop\\studia\\Copier\\Copier\\Zadanie2TestProject\\Zadanie2TestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\marcin.swiderski\\Desktop\\Copier\\Copier\\Zadanie2TestProject\\Zadanie2TestProject.csproj",
+        "projectUniqueName": "C:\\Users\\SkutecznieUse\\Desktop\\studia\\Copier\\Copier\\Zadanie2TestProject\\Zadanie2TestProject.csproj",
         "projectName": "Zadanie2TestProject",
-        "projectPath": "D:\\Users\\marcin.swiderski\\Desktop\\Copier\\Copier\\Zadanie2TestProject\\Zadanie2TestProject.csproj",
-        "packagesPath": "D:\\Users\\marcin.swiderski\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\marcin.swiderski\\Desktop\\Copier\\Copier\\Zadanie2TestProject\\obj\\",
+        "projectPath": "C:\\Users\\SkutecznieUse\\Desktop\\studia\\Copier\\Copier\\Zadanie2TestProject\\Zadanie2TestProject.csproj",
+        "packagesPath": "C:\\Users\\SkutecznieUse\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SkutecznieUse\\Desktop\\studia\\Copier\\Copier\\Zadanie2TestProject\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "D:\\Users\\marcin.swiderski\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\SkutecznieUse\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -88,11 +96,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Users\\marcin.swiderski\\Desktop\\Copier\\Copier\\DocumentsDevices\\DocumentsDevices.csproj": {
-                "projectPath": "D:\\Users\\marcin.swiderski\\Desktop\\Copier\\Copier\\DocumentsDevices\\DocumentsDevices.csproj"
+              "C:\\Users\\SkutecznieUse\\Desktop\\studia\\Copier\\Copier\\DocumentsDevices\\DocumentsDevices.csproj": {
+                "projectPath": "C:\\Users\\SkutecznieUse\\Desktop\\studia\\Copier\\Copier\\DocumentsDevices\\DocumentsDevices.csproj"
               },
-              "D:\\Users\\marcin.swiderski\\Desktop\\Copier\\Copier\\Zadanie2\\Zadanie2.csproj": {
-                "projectPath": "D:\\Users\\marcin.swiderski\\Desktop\\Copier\\Copier\\Zadanie2\\Zadanie2.csproj"
+              "C:\\Users\\SkutecznieUse\\Desktop\\studia\\Copier\\Copier\\Zadanie2\\Zadanie2.csproj": {
+                "projectPath": "C:\\Users\\SkutecznieUse\\Desktop\\studia\\Copier\\Copier\\Zadanie2\\Zadanie2.csproj"
               }
             }
           }
@@ -145,21 +153,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Users\\marcin.swiderski\\Desktop\\Copier\\Copier\\Zadanie2\\Zadanie2.csproj": {
+    "C:\\Users\\SkutecznieUse\\Desktop\\studia\\Copier\\Copier\\Zadanie2\\Zadanie2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\marcin.swiderski\\Desktop\\Copier\\Copier\\Zadanie2\\Zadanie2.csproj",
+        "projectUniqueName": "C:\\Users\\SkutecznieUse\\Desktop\\studia\\Copier\\Copier\\Zadanie2\\Zadanie2.csproj",
         "projectName": "Zadanie2",
-        "projectPath": "D:\\Users\\marcin.swiderski\\Desktop\\Copier\\Copier\\Zadanie2\\Zadanie2.csproj",
-        "packagesPath": "D:\\Users\\marcin.swiderski\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\marcin.swiderski\\Desktop\\Copier\\Copier\\Zadanie2\\obj\\",
+        "projectPath": "C:\\Users\\SkutecznieUse\\Desktop\\studia\\Copier\\Copier\\Zadanie2\\Zadanie2.csproj",
+        "packagesPath": "C:\\Users\\SkutecznieUse\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SkutecznieUse\\Desktop\\studia\\Copier\\Copier\\Zadanie2\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "D:\\Users\\marcin.swiderski\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\SkutecznieUse\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -173,8 +185,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Users\\marcin.swiderski\\Desktop\\Copier\\Copier\\DocumentsDevices\\DocumentsDevices.csproj": {
-                "projectPath": "D:\\Users\\marcin.swiderski\\Desktop\\Copier\\Copier\\DocumentsDevices\\DocumentsDevices.csproj"
+              "C:\\Users\\SkutecznieUse\\Desktop\\studia\\Copier\\Copier\\DocumentsDevices\\DocumentsDevices.csproj": {
+                "projectPath": "C:\\Users\\SkutecznieUse\\Desktop\\studia\\Copier\\Copier\\DocumentsDevices\\DocumentsDevices.csproj"
               }
             }
           }
@@ -209,7 +221,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }
